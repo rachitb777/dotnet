@@ -12,9 +12,7 @@ You want to type a string word. Write a function to calculate how much time it t
 
 **Output:** 4
 
-**Explanation:** The index moves from 0 to 2 to write 'c' then to 1 to write 'b' then to 0 again to write 'a'.
-
-Total time = 2 + 1 + 1 = 4. 
+**Explanation:** The index moves from 0 to 2 to write 'c' then to 1 to write 'b' then to 0 again to write 'a'. Total time = 2 + 1 + 1 = 4. 
 
 #### Example 2:
 
