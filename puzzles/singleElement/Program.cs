@@ -31,6 +31,8 @@ namespace singleElement
             return returnVal;
         }
 
+
+        // O(log(n)) solution
         public int SingleNonDuplicate2(int[] nums)
         {
             int start = 0;
