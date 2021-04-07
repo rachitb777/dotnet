@@ -16,6 +16,6 @@ You want to type a string word. Write a function to calculate how much time it t
 
 #### Example 2:
 
-**Input:** keyboard = "pqrstuvwxyzabcdefghijklmno", word = "leetcode"
+**Input:** keyboard = "pqrstuvwxyzabcdefghijklmno", word = "github"
 
-**Output:** 73
+**Output:** 68
